@@ -1,0 +1,126 @@
+Conversation,Intent
+"{
+  ""conversation"": [
+    {
+      ""customer"": ""I bought Unlimited 5plus plan and iPhone 15 Pro because they were saying get 65” inch 4K TV on us. But now when I try to claim the offer it says the offer has expired. If I’m not getting the TV then what’s the point of getting the Unlimited 5plus plan and new device? Please, if anyone from Verizon is reading this, help me to claim my offer.""
+    },
+    {
+      ""agent"": ""Hello! I understand your frustration. Let me look into this for you. Can you please provide me with your order number and the date of purchase?""
+    },
+    {
+      ""customer"": ""Sure, my order number is 123456789, and I purchased the plan and device on May 10th.""
+    },
+    {
+      ""agent"": ""Thank you for the details. Please hold on for a moment while I check your order and the offer details.""
+    },
+    {
+      ""agent"": ""I see that your purchase was indeed within the promotional period. It seems like there might be an issue with the system not recognizing your eligibility. Let me escalate this to our promotions team to resolve it.""
+    },
+    {
+      ""customer"": ""I appreciate that. How long will it take to get this resolved?""
+    },
+    {
+      ""agent"": ""The promotions team typically responds within 24-48 hours. I will ensure they prioritize your case and keep you updated on the progress.""
+    },
+    {
+      ""customer"": ""Thank you. I hope this can be sorted out quickly. I was really looking forward to the TV.""
+    },
+    {
+      ""agent"": ""You're welcome! We will do our best to resolve this as soon as possible. Is there anything else I can assist you with today?""
+    },
+    {
+      ""customer"": ""No, that's all for now. Thanks for your help.""
+    },
+    {
+      ""agent"": ""Anytime! Have a great day, and we’ll be in touch soon.""
+    }
+  ]
+}",Plan
+"{
+  ""conversation"": [
+    {
+      ""customer"": ""When I initially set up this Verizon account, it was because a guy who worked for you and lived by me convinced me to come in and get some stuff. He reassured me all the stuff was virtually free as I exchanged an old prepaid iPhone and he would pay the bill. He texted me on Snapchat for months after the first time he didn’t pay it.""
+    },
+    {
+      ""customer"": ""Now, I’ve gone into a store in Henderson, KY, and unannounced to me, someone got themselves some stuff on my account! I wondered why I needed all this info and ID to pay my bill… I’ve paid thousands trying to keep up now, and I’m so frustrated!""
+    },
+    {
+      ""agent"": ""I'm really sorry to hear about this situation. Let me help you. Can you please provide me with your account number and any relevant details about the charges you believe were made fraudulently?""
+    },
+    {
+      ""customer"": ""My account number is 987654321. The charges started appearing a few months ago, and I noticed devices and services I never authorized.""
+    },
+    {
+      ""agent"": ""Thank you for the information. I will review your account immediately to identify any unauthorized activities. Please hold on for a moment.""
+    },
+    {
+      ""agent"": ""I see several suspicious transactions. It looks like your account may have been compromised. I will escalate this to our fraud investigation team. They will need to investigate further and take the necessary steps to secure your account.""
+    },
+    {
+      ""customer"": ""This is really stressful. How long will the investigation take?""
+    },
+    {
+      ""agent"": ""Our fraud investigation team usually takes about 5-7 business days to complete their review. We will keep you updated throughout the process and ensure your account is secured.""
+    },
+    {
+      ""customer"": ""I appreciate that. What should I do in the meantime?""
+    },
+    {
+      ""agent"": ""In the meantime, we will put a hold on any further charges and monitor your account closely. Please change your account password and review your account settings for any unfamiliar changes.""
+    },
+    {
+      ""customer"": ""I will do that. Thank you for your help. I hope this gets resolved soon.""
+    },
+    {
+      ""agent"": ""You're welcome. We’re committed to resolving this for you as quickly as possible. Is there anything else I can assist you with today?""
+    },
+    {
+      ""customer"": ""No, that’s all for now. Thank you.""
+    },
+    {
+      ""agent"": ""Anytime. Have a good day, and we will be in touch soon.""
+    }
+  ]
+}",Network
+"
+{
+  ""conversation"": [
+    {
+      ""customer"": ""I purchased a new iPhone 15 Pro Max and added a new line on Dec 31st, 2023, through Verizon by speaking with one of the agents over the phone. The purchase was made with the understanding that I would receive a $1000 trade-in credit ($27.77 per month) by sending my Samsung S7 phone as part of a Thanksgiving promotional offer. However, despite numerous attempts to resolve this matter, the credit has not been applied to my account.""
+    },
+    {
+      ""customer"": ""Over the past month, I have engaged with at least 25 different Verizon agents over the phone and chat, spending around 30 hours attempting to address this issue. Each representative assured me that the credit would be processed in five days or in the next billing cycle, but it has yet to materialize. Sometimes I was told I would receive a callback, which never happens, and sometimes agents disconnect calls after staying on the call for hours.""
+    },
+    {
+      ""agent"": ""I'm really sorry to hear about the trouble you've been experiencing. Let me help you get this resolved. Can you please provide me with your account number and any reference numbers related to your previous interactions?""
+    },
+    {
+      ""customer"": ""My account number is 456789123. Unfortunately, I don't have any reference numbers, but I can provide you with the details of my trade-in.""
+    },
+    {
+      ""agent"": ""Thank you. Please hold on for a moment while I review your account and the trade-in details.""
+    },
+    {
+      ""agent"": ""I see the details of your trade-in and the promotional offer. It appears that there was an error in processing your trade-in credit. I will escalate this to our promotions and billing team to ensure the credit is applied immediately.""
+    },
+    {
+      ""customer"": ""I appreciate that. How long will it take to get this resolved? I've already waited so long.""
+    },
+    {
+      ""agent"": ""I understand your frustration. I will mark this as urgent, and the team should resolve it within 48 hours. I will also personally follow up to ensure it is completed and keep you updated.""
+    },
+    {
+      ""customer"": ""Thank you. I hope this finally gets sorted out.""
+    },
+    {
+      ""agent"": ""You're welcome. We will do everything we can to ensure this is resolved quickly. Is there anything else I can assist you with today?""
+    },
+    {
+      ""customer"": ""No, that's all for now. Thanks for your help.""
+    },
+    {
+      ""agent"": ""Anytime. Have a great day, and we will be in touch soon.""
+    }
+  ]
+}
+",Billing
