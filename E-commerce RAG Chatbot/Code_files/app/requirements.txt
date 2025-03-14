@@ -1,0 +1,14 @@
+langchain_core
+langgraph
+streamlit
+langchain_community
+python-dotenv
+pinecone
+gcloud
+google-api-python-client
+protoc-gen-openapiv2
+grpcio
+grpcio-tools
+transformers
+openpyxl
+torch

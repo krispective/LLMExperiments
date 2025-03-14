@@ -1,0 +1,18 @@
+[
+    {
+        "content": "Hi, can you help me with a return process?",
+        "role": "user"
+    },
+    {
+        "content": "I'd be happy to assist you with the return process.\n\nBefore we get started, could you please provide some information about your order?\n\n* Your order number (if you have it)\n* The reason for return (e.g. item didn't fit, wasn't as described, etc.)\n* Whether you'd like an exchange or a full refund\n\nAlso, would you prefer to initiate the return process online through our website or via phone/email?",
+        "role": "assistant"
+    },
+    {
+        "content": "Hi, can you help me with a return process?",
+        "role": "user"
+    },
+    {
+        "content": "I'd be happy to assist you with the return process.\n\nBefore we get started, could you please provide me with some information about your order?\n\n* Order number or reference number\n* Reason for return (e.g. item didn't fit, item was defective, etc.)\n* Item(s) you'd like to return\n\nThis will help me guide you through the process and ensure that it's handled efficiently.\n\nAlso, please note that we have a 30-day return policy, so if it's within that timeframe, you're good to go!",
+        "role": "assistant"
+    }
+]
