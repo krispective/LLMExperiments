@@ -1,0 +1,88 @@
+Provider: Straight Talk Wireless
+Plan Name: Platinum Unlimited
+
+Plan Type: Mobile Broadband Consumer Disclosure
+
+Monthly Price: $65.00 (Not an introductory rate, no contract required)
+
+Activation Fee: $0.00
+
+International Calling and Texting: Yes, but for Canada and Mexico Only
+
+Provider Monthly Fees: $0.00
+
+One-Time Fees at Purchase: Not specified
+
+Federal Universal Service Fund: $0.37
+
+Regulatory Cost Recovery Fee: $0.13
+
+Early Termination Fee: $0.00
+
+Government Taxes: Varies by location
+
+Discounts & Bundles: Available for broadband service bundled with video, phone, wireless services, and use of personal equipment (e.g., modem/router)
+
+5G Typical Speeds:
+
+Download: 35-143 Mbps
+
+Upload: 5-31 Mbps
+
+Latency: 42-64 ms
+
+4G LTE Typical Speeds:
+
+Download: 11-75 Mbps
+
+Upload: 1-13 Mbps
+
+Latency: 49-75 ms
+
+Monthly Data Included: Unlimited
+
+Additional Data Charges: $0.00
+
+
+Provider: Straight Talk Wireless
+Plan Name: Straight Talk $60 Unlimited International
+
+Plan Type: Mobile Broadband Consumer Disclosure
+
+Monthly Price: $60.00 (Not an introductory rate, no contract required)
+
+Activation Fee: $0.00
+
+Provider Monthly Fees: $0.00
+
+One-Time Fees at Purchase: Not specified
+
+Federal Universal Service Fund: $0.32
+
+Regulatory Cost Recovery Fee: $0.12
+
+Early Termination Fee: $0.00
+
+Government Taxes: Varies by location
+
+Discounts & Bundles: Available for broadband service bundled with video, phone, wireless services, and use of personal equipment (e.g., modem/router)
+
+5G Typical Speeds:
+
+Download: 34-149 Mbps
+
+Upload: 6-37 Mbps
+
+Latency: 42-63 ms
+
+4G LTE Typical Speeds:
+
+Download: 9-69 Mbps
+
+Upload: 1-13 Mbps
+
+Latency: 51-82 ms
+
+Monthly Data Included: Unlimited
+
+Additional Data Charges: $0.00
